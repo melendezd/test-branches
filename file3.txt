@@ -1,6 +1,0 @@
-this
-is
-an
-additional
-template
-file
